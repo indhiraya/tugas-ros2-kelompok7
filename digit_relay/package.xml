@@ -4,8 +4,14 @@
   <name>digit_relay</name>
   <version>0.0.0</version>
   <description>TODO: Package description</description>
-  <maintainer email="msi_cyborg@todo.todo">msi_cyborg</maintainer>
+  <maintainer email="indhira.apn04@gmail.com">indhira</maintainer>
   <license>Apache-2.0</license>
+  <depend>rclpy</depend>
+  <depend>turtlesim</depend>
+  <depend>std_srvs</depend>
+  <depend>digit_relay_interfaces</depend>
+  <exec_depend>launch</exec_depend>
+  <exec_depend>launch_ros</exec_depend>
 
   <test_depend>ament_copyright</test_depend>
   <test_depend>ament_flake8</test_depend>
