@@ -1,0 +1,2 @@
+int32 current_number
+int32 active_member
